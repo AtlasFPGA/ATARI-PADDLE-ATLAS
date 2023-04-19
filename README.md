@@ -7,22 +7,30 @@
    
    La formula viene en la página 206 del libro de especificaciones del PC-XT de 1983.
    
-   
+   Tiempo = 24,2_microsegundos + 0,011(Dependiente de la resistencia)_microsengundos
 
 ---
+Esquema básico de un joystick analógico
+![Esquema básico de un joystick analógico](https://github.com/AtlasFPGA/ATARI-PADDLE-ATLAS/blob/main/FOTOS/INFORMACI%C3%93N_JOY_ANAL%C3%93GICO_IBM.png)
 
+---
+Formula temporal asociada a la descarga de un multibribrador monoestable en la creación de un mando de juegos   
+![Formula temporal asociada a la descarga de un multibribrador monoestable en la creación de un mando de juegos](https://github.com/AtlasFPGA/ATARI-PADDLE-ATLAS/blob/main/FOTOS/INFORMACI%C3%93N_JOY_ANAL%C3%93GICO_IBM_FORMULA_TEMPORAL.png)
+
+---
+Visión huellas 3D
 ![Visión huellas 3D](https://github.com/AtlasFPGA/ATARI-PADDLE-ATLAS/blob/main/FOTOS/COMUNICACI%C3%93N_ATARI_PADDLE_ATLAS.jpg)
 
 ---
-
+VISION DERECHA
 ![VISION DERECHA](https://github.com/AtlasFPGA/ATARI-PADDLE-ATLAS/blob/main/FOTOS/COMUNICACI%C3%93N_ATARI_PADDLE_ATLAS_DERECHA.jpg)
 
 ---
-
+VISION FRONTAL INCLINADA
 ![VISION FRONTAL INCLINADA](https://github.com/AtlasFPGA/ATARI-PADDLE-ATLAS/blob/main/FOTOS/COMUNICACI%C3%93N_ATARI_PADDLE_ATLAS_FRONTAL_INCLINADA.jpg)
 
 ---
-
+Plateamiento de huellas PCB
 ![Plateamiento de huellas PCB](https://github.com/AtlasFPGA/ATARI-PADDLE-ATLAS/blob/main/FOTOS/INICIO_PCB_ATARI-PADDLE-ATLAS.png)
 
 ---
