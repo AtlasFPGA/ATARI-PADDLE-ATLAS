@@ -7,7 +7,9 @@
    
    La formula viene en la página 206 del libro de especificaciones del PC-XT de 1983.
    
-   Tiempo = 24,2_microsegundos + 0,011(Dependiente de la resistencia)_microsengundos
+#   Tiempo = 24,2_microsegundos + 0,011(Dependiente de la resistencia)_microsengundos
+
+Nota se sube la versión fecha 19-04-2023.
 
 ---
 
