@@ -11,7 +11,7 @@
 
    Se muestra el chip que se usa en el montaje que cumple el ser multibibrador monoestable y poder alimentarse a +3V3 también es económico ménos de 1€ y existen existencias del mismo.
    
-   Enlace donde se vé el integrado CD74HC221M96 a fecha de 19-04-2023 precio unitario de 0,677.
+   Enlace donde se vé el integrado CD74HC221M96 a fecha de 19-04-2023 precio unitario de 0,677€.
    
    https://www.mouser.es/ProductDetail/Texas-Instruments/CD74HC221M96?qs=gb35HGp1gQKI%2FNBn99hmtQ%3D%3D
 
